@@ -5,7 +5,6 @@ Write a C# program to find the largest of three numbers.
 ## Algorith:
 
 ## Program:
-
 using System;  
 public class Exercise8  
 {  
@@ -29,10 +28,12 @@ public class Exercise8
             Console.Write("C IS THE LARGEST OF ALL.. \n\n");
         }
     }
-    else if (B > C)
+    else if (B > C){
         Console.Write("B IS THE LARGEST OF ALL.. \n\n");
-    else
+    }
+    else{
         Console.Write("C IS THE LARGEST OF ALL.. \n\n");
+    }
 }
 }
 
