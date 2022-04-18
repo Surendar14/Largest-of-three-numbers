@@ -12,14 +12,12 @@ public class Exercise8
     public static void Main()
 {
     int A, B, C;
- 
     Console.Write("Input the value for A:");
     A = Convert.ToInt32(Console.ReadLine());
     Console.Write("Input the value for B:");
     B = Convert.ToInt32(Console.ReadLine());
     Console.Write("Input the value for C:");
     C = Convert.ToInt32(Console.ReadLine());
- 
   if (A > B)
     {
         if (A > C)
