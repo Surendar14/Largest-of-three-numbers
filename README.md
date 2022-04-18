@@ -37,8 +37,7 @@ public class Exercise8
 }
 
 ## Output:
-![Screenshot (46)](https://user-images.githubusercontent.com/75235759/163825330-cdb28b8b-d1a0-4885-966d-161ab3d3b2c2.png)
-
+![Screenshot (49)](https://user-images.githubusercontent.com/75235759/163827174-d43abafd-315d-4a04-a1c3-bdd1cba2eae4.png)
 
 ## Result:
 Thus, C# program to find the largest of three numbers was executed.
