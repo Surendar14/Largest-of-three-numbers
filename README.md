@@ -5,6 +5,7 @@ Write a C# program to find the largest of three numbers.
 ## Algorith:
 
 ## Program:
+~~~
 using System;  
 public class Exercise8  
 {  
@@ -36,7 +37,7 @@ public class Exercise8
     }
 }
 }
-
+~~~
 ## Output:
 ![Screenshot (51)](https://user-images.githubusercontent.com/75235759/163827359-b9564652-2ef6-4859-a6ed-d92e1f51eb2b.png)
 
